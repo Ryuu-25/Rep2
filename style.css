@@ -1,0 +1,31 @@
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+table {
+  border: 1px white;
+  background-color: #87CEEB;
+  width: 400px;
+  height: 100px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+h1 {
+  border: 1px solid black;
+  text-align: center;
+  font-size: 40px;
+  background-color: red;
+}
+
+body {
+    background-image: url("https://i.redd.it/34zckrf0l6i51.jpg");
+    background-size: cover;
+}
