@@ -124,7 +124,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("../../assets/images/Centre.jpg") 0 0 / cover no-repeat;
+  background: url("../../Assets/images/Centre.jpg") 0 0 / cover no-repeat;
   filter: brightness(50%);
 }
 
